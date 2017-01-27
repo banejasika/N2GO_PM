@@ -1,0 +1,10 @@
+{
+      "name":"N2GO_PM",
+      "description":"My first plugin",
+      "namespace":"N2GO_PM",
+      "author":"Test",
+      "type":"template",
+      "version": "1.0.0",
+      "serviceProvider":"N2GO_PM\\Providers\\PMTestServiceProvider",
+
+}
